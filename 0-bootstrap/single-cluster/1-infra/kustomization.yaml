@@ -29,7 +29,7 @@ resources:
 #- argocd/serviceaccounts-ibm-common-services.yaml
 - argocd/serviceaccounts-tools.yaml
 #- argocd/serviceaccounts-db2.yaml
-- argocd/serviceaccounts-mq.yaml
+# argocd/serviceaccounts-mq.yaml
 - argocd/serviceaccounts-b2bi-prod.yaml
 #- argocd/serviceaccounts-b2bi-nonprod.yaml
 #- argocd/serviceaccounts-pem.yaml
